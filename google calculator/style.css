@@ -1,0 +1,44 @@
+table{
+    padding:10px;
+    width: 40%;
+    height:200px;
+    border: 1px solid #c5c5c9e0;
+    border-radius: 5px;
+    text-align: center;
+}
+td{
+    padding:3px;
+}
+input[type=text]
+{
+    font-size:2em;
+    text-align: right;
+    width: 99%;
+    height:50px;
+    border-radius: 7px;
+    border: 1px solid #e6e3e3;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    outline-color: rgb(68, 119, 230);
+}
+
+input[type=button]
+{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 5px;
+    width: 100%;
+    border: 1px solid #fefefe;
+    border-radius: 4px;
+    background-color: rgb(241, 240, 240)
+}
+input[name=equal] {
+    
+    background-color: #4d90fe;
+    border-radius: 3px;
+    font-weight:bold;
+    font-size: 13px;
+
+}
+input[name=op]
+{
+    background-color:#dbdbdd
+}
